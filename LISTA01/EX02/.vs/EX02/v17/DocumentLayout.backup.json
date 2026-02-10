@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDD4C96F-0782-4643-BEEB-DE01EBF93DB5}|..\\EX01\\EX01.csproj|c:\\users\\pichau\\documents\\github\\trabalho-aedii\\lista01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D0D36EB-E46F-4B6B-99AC-3BC8055F0D16}|EX02.csproj|c:\\users\\pichau\\documents\\github\\trabalho-aedii\\lista01\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D0D36EB-E46F-4B6B-99AC-3BC8055F0D16}|EX02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FD5EA3C-4D2E-41B2-AC4D-9044CCFCC0AE}|..\\EX05\\EX05.csproj|c:\\users\\pichau\\documents\\github\\trabalho-aedii\\lista01\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\EX01\\Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX01\\Program.cs",
-              "RelativeToolTip": "..\\EX01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EX05\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX05\\Program.cs",
+              "RelativeToolTip": "..\\EX05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T14:51:21.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX02\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\Documents\\GitHub\\Trabalho-AEDII\\LISTA01\\EX02\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T14:50:29.34Z",
+              "WhenOpened": "2026-02-10T13:52:38.188Z",
               "EditorCaption": ""
             }
           ]
