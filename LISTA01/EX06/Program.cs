@@ -15,3 +15,15 @@ public class HelloWorld
         // Verificando se o número é 0
         if (num == 0)
         {
+         cont = 1;
+        }
+        else{
+        for (cont=0; num != 0; cont++)
+        {
+        num = num / 10;
+        }
+       }
+       Console.WriteLine("O número possui " + cont + " dígitos.");
+       Console.ReadKey();
+    }
+}
