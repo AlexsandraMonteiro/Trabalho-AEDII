@@ -1,6 +1,5 @@
 ﻿/* 3.O    programa a	seguir estranhamente	sempre	escreve	“A	distancia	e:	1.0”.	Identifique onde	
 está	o	defeito.
-
 import java.util.Scanner;
 public class Distancia
 {
