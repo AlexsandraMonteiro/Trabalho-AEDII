@@ -2,7 +2,7 @@
 //contador de dígitos 
 using System;
 
-public class HelloWorld
+public class Programa
 {
     public static void Main(string[] args)
     {
