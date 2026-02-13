@@ -1,12 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace trabalho1
-{
-    internal class Program
+class Program
     {
         static void Main(string[] args)
         {
@@ -20,4 +14,3 @@ namespace trabalho1
 
         }
     }
-}
