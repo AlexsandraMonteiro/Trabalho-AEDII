@@ -40,8 +40,8 @@ class Retangulo
         Console.WriteLine("Digite o valor da base do seu retângulo/quadrado:");
         int.TryParse(Console.ReadLine(), out int Base);
 
-        CalculoArea.h = Altura;  // Atribui os valores diretamente aos atributos privados
-        CalculoArea.b = Base;
+        CalculoArea.Altura = Altura;  // Atribui os valores diretamente aos atributos privados
+        CalculoArea.Base = Base;
 
         CalculoArea.infos(); // Chama o método que exibe as informações
     } 
