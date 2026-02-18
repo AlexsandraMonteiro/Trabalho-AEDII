@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.sourcelink.json
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\bin\Debug\net8.0\EX05-médio.exe
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\bin\Debug\net8.0\EX05-médio.deps.json
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\bin\Debug\net8.0\EX05-médio.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\bin\Debug\net8.0\EX05-médio.dll
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\bin\Debug\net8.0\EX05-médio.pdb
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.dll
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\refint\EX05-médio.dll
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.pdb
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\EX05-médio.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHub\Trabalho-AEDII\LISTA03\EX05-médio\obj\Debug\net8.0\ref\EX05-médio.dll

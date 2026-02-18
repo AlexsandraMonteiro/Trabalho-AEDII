@@ -10,6 +10,7 @@ System.out.println(i + ", " + j + ", " + k);
 }
 }
 }*/
+
  for (int i = 2; i <= 8; i = i + 2)
  Começa em 2 e vai até 8, acrescentando de 2 em 2.
   

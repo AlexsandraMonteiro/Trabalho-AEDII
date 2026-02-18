@@ -1,3 +1,10 @@
+/*3) Crie um programa que imprima na tela um triângulo de “*”:
+*
+**
+***
+****
+*/
+
 using System;
 
 class Program

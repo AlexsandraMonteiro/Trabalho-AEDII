@@ -1,4 +1,5 @@
-//6.
+//6.Determine	o	número	de	dígitos	de	um	número	informado.
+
 //contador de dígitos 
 using System;
 

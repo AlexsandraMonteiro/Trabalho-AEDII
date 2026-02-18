@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 21. Faça	um	programa	para	controle	de	empréstimo	de	livros,	com	as	classes	Emprestimo,	Livro	e	Pessoa.

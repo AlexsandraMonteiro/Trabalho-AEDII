@@ -7,6 +7,7 @@ caso o usuário deseje investir R$ 100,00 por mês, e tenha uma taxa de juros de
 o programa forneceria a seguinte saída:
 Saldo do investimento após 1 ano: 1280.9328043328942
 Deseja processar mais um ano? (S/N)*/
+
 using System;
 
 public class HelloWorld
