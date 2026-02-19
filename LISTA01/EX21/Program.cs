@@ -1,6 +1,6 @@
 ﻿// 21. Faça	um	programa	para	controle	de	empréstimo	de	livros,	com	as	classes	Emprestimo,	Livro	e	Pessoa.
 using System;
-//classe contato
+//classe Livro
  class Livro
 {
     //atributos privados
