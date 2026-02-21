@@ -3,9 +3,9 @@ discriminante	Δ =	b2 – 4ac,	e	que	a	raiz	r	=	(–b	± √Δ)/2a).
  */
 
 using System;
-public class EX01()
+class EX01()
 {
-    public static void Main()
+    static void Main()
     {
         Console.Write("Digite o valor de A: ");
         double a = double.Parse(Console.ReadLine());
@@ -16,7 +16,7 @@ public class EX01()
 
         CalcularRaizQuadrada(a, b, c);
     }
-    public static void CalcularRaizQuadrada(double a, double b, double c)
+    static void CalcularRaizQuadrada(double a, double b, double c)
     {
         if (a == 0)
         {
@@ -51,5 +51,6 @@ public class EX01()
 
             Console.WriteLine($"A equação possui duas raízes reais: {raiz1} e {raiz2}");
         }
+        Console.ReadKey();
     }
 }

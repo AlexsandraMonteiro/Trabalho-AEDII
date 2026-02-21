@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LISTA03",
+    "\\LISTA01",
+    "\\LISTA01\\EX01",
+    "\\LISTA01\\EX02",
     "\\LISTA03\\EX05-médio"
   ],
-  "SelectedNode": "\\LISTA03\\EX05-médio\\EX05-médio.csproj",
+  "SelectedNode": "\\LISTA01\\EX02\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
