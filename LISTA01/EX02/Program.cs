@@ -2,7 +2,7 @@
 
 using System;
 
-public class EX02()
+class EX02
 {
     public static void Main()
     {
