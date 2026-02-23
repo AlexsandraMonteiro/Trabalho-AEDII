@@ -22,7 +22,7 @@ public class Distancia
 
 import java.util.Scanner;
 
-public class Distancia
+ class Distancia
 {
     public static void main(String[] args)
     {
