@@ -10,7 +10,7 @@ Deseja processar mais um ano? (S/N)*/
 
 using System;
 
-public class HelloWorld
+public class EX10
 {
     public static void Main(string[] args)
     {
