@@ -3,7 +3,7 @@ respeitando o erro máximo também informado pelo usuário. Não utilize funçõ
 predefinidas.*/
 
 using System;
- public class Exercicio10 
+ public class Exercicio11 
  {
   public static void Main(String[] args) 
   {
