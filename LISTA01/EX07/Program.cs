@@ -34,3 +34,16 @@ System.out.println("Código: " + codigo);
 } 
 } 
 */
+
+//RESPOSTA
+// a) A solução correta é a letra A.
+/* b) do {
+    System.out.print("Informe o código: ");
+    codigo = teclado.nextInt();
+
+    if (codigo != -1) {
+        System.out.println("Código: " + codigo);
+    }
+
+} while (codigo != -1);
+*/
