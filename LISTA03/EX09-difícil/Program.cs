@@ -109,4 +109,8 @@ class Teste
         Console.WriteLine("Após tentar ligar:");
         lampada.MostrarEstado();
     }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

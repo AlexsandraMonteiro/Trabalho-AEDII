@@ -251,4 +251,8 @@ class Teste
             Console.WriteLine();
         }
     }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

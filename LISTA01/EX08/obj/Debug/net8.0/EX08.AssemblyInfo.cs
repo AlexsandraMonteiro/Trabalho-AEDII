@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX08")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de750bfe40f8d00767200060fb53c24e5e5d32fd")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2429d6bc9f361cc7f3e24c1dec09f5252b4610eb")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("EX08")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX08")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
